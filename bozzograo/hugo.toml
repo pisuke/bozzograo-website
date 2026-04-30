@@ -1,0 +1,4 @@
+baseURL = 'https://bozzograo.org/'
+languageCode = 'en-us'
+title = 'Bozzograo'
+theme = 'paper'

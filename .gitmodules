@@ -1,0 +1,3 @@
+[submodule "bozzograo/themes/paper"]
+	path = bozzograo/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
